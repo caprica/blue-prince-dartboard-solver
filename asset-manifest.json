@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/blue-prince-dartboard-solver/static/css/main.94bea2fd.css",
+    "main.js": "/blue-prince-dartboard-solver/static/js/main.7070f500.js",
+    "static/js/453.f2338715.chunk.js": "/blue-prince-dartboard-solver/static/js/453.f2338715.chunk.js",
+    "static/media/cinzel-latin-400-normal.woff": "/blue-prince-dartboard-solver/static/media/cinzel-latin-400-normal.4e7f6c8fbf1549be6c3e.woff",
+    "static/media/cinzel-latin-400-normal.woff2": "/blue-prince-dartboard-solver/static/media/cinzel-latin-400-normal.8a72691e63c816ba425c.woff2",
+    "static/media/cinzel-latin-ext-400-normal.woff": "/blue-prince-dartboard-solver/static/media/cinzel-latin-ext-400-normal.9528da62b6e9e2e2c6ff.woff",
+    "static/media/cinzel-latin-ext-400-normal.woff2": "/blue-prince-dartboard-solver/static/media/cinzel-latin-ext-400-normal.cb8b3c2b99534da5a10a.woff2",
+    "index.html": "/blue-prince-dartboard-solver/index.html",
+    "main.94bea2fd.css.map": "/blue-prince-dartboard-solver/static/css/main.94bea2fd.css.map",
+    "main.7070f500.js.map": "/blue-prince-dartboard-solver/static/js/main.7070f500.js.map",
+    "453.f2338715.chunk.js.map": "/blue-prince-dartboard-solver/static/js/453.f2338715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94bea2fd.css",
+    "static/js/main.7070f500.js"
+  ]
+}
