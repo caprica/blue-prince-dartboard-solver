@@ -2,7 +2,7 @@
 
 Solver for the Billiard Room dartboard puzzles from the [Blue Prince] (https://www.blueprincegame.com/) video game.
 
-Live site here: [Blue Prince Dartboard Solver](https://caprica.github.io/blue-prince-dartboard-solver)
+Live deployment here: [Blue Prince Dartboard Solver](https://caprica.github.io/blue-prince-dartboard-solver/)
 
 ## Why?
 
@@ -33,7 +33,3 @@ No keyboard support (yet?) I'm afraid.
 ## Mobile
 
 It is mostly usable on mobile devices, but the touch interactions can be a litle awkward. Pinch-to-zoom is supported and can help a lot.
-
-## Status
-
-This solves, I think, all the variations of the puzzle I've seen so far, up to around Day 175.
