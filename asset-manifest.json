@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blue-prince-dartboard-solver/static/css/main.94bea2fd.css",
+    "main.css": "/blue-prince-dartboard-solver/static/css/main.f951a8c6.css",
     "main.js": "/blue-prince-dartboard-solver/static/js/main.a45322a5.js",
     "static/js/453.f2338715.chunk.js": "/blue-prince-dartboard-solver/static/js/453.f2338715.chunk.js",
     "static/media/cinzel-latin-400-normal.woff": "/blue-prince-dartboard-solver/static/media/cinzel-latin-400-normal.4e7f6c8fbf1549be6c3e.woff",
@@ -8,12 +8,12 @@
     "static/media/cinzel-latin-ext-400-normal.woff": "/blue-prince-dartboard-solver/static/media/cinzel-latin-ext-400-normal.9528da62b6e9e2e2c6ff.woff",
     "static/media/cinzel-latin-ext-400-normal.woff2": "/blue-prince-dartboard-solver/static/media/cinzel-latin-ext-400-normal.cb8b3c2b99534da5a10a.woff2",
     "index.html": "/blue-prince-dartboard-solver/index.html",
-    "main.94bea2fd.css.map": "/blue-prince-dartboard-solver/static/css/main.94bea2fd.css.map",
+    "main.f951a8c6.css.map": "/blue-prince-dartboard-solver/static/css/main.f951a8c6.css.map",
     "main.a45322a5.js.map": "/blue-prince-dartboard-solver/static/js/main.a45322a5.js.map",
     "453.f2338715.chunk.js.map": "/blue-prince-dartboard-solver/static/js/453.f2338715.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94bea2fd.css",
+    "static/css/main.f951a8c6.css",
     "static/js/main.a45322a5.js"
   ]
 }
